@@ -556,7 +556,7 @@ const Home = () => {
               fontSize: 96, zIndex: 1, position: 'relative',
               boxShadow: '0 30px 80px rgba(13,124,124,0.3)',
               border: '4px solid rgba(255,255,255,0.15)',
-            }} className='bg-[url("yves.png")] bg-cover object-cover'>
+            }} className='bg-[url("/yves.png")] bg-cover object-cover'>
               {/* <img src="/yves.png" alt="" /> */}
             </div>
             {/* Floating chips */}
